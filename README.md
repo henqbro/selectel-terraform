@@ -38,15 +38,6 @@ terraform apply
 | `sel_project_id` | ID проекта |
 | `region` | Регион (например, `ru-3`) |
 
----
-
-## ⚠️ Важно
-
-```
-terraform.tfstate
-terraform.tfstate.backup
-terraform.tfvars
-```
 
 ---
 
