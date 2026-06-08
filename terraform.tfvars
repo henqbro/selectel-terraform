@@ -1,0 +1,5 @@
+selectel_account_id = "423565"
+selectel_username   = "toha"
+selectel_password   = ""
+ssh_public_key_path = ""
+project_id          = ""
